@@ -1,4 +1,4 @@
-osx-new-phonetic (чшерти) БДС Фонетична клавиатура за Мак
+osx-new-phonetic (чшерти) Българска - БДС Фонетична клавиатура за Мак - Bulgaria Phonetic keyboard layout for Mac OS X
 ================
 
 This is Bulgarian Cyrillic (new win7/vista) Phonetic keyboard layout for Mac OS X
