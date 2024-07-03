@@ -48,7 +48,7 @@ Navigate to one of two system folders
 
 ### Step 4. !!! Restart !!!!
 
-> This stem is very IMPORTANT! 
+> This step to **Restart** the machine is **IMPORTANT**!!! 
 
 > Note: Logging out and back in is not enough.
 
