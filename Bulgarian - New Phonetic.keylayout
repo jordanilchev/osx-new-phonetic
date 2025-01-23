@@ -1,6 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Jordan Ilchev-->
+<!--Source: https://github.com/jordanilchev/osx-new-phonetic-->
 <!--Last edited by Ukelele version 396 on 2024-03-21 at 17:04 (GMT+2)-->
 <keyboard group="7" id="-23222" name="Bulgarian - Phonetic" maxout="1">
     <layouts>
